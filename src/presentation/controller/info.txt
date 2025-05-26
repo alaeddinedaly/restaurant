@@ -1,0 +1,1 @@
+mediates between vue and metier/dao

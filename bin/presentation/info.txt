@@ -1,0 +1,5 @@
+MVC(model view controller) Layer (swing specifics..)
+
+1-Model(Data + Buisness Logic)
+2-View (User inteface ( UI ))
+3-Controller(middleman)
