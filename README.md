@@ -92,15 +92,15 @@ If your MAMP uses **non-default ports**, update the JDBC URL in:
 
 ### Admin Dashboard
 
-![Admin Dashboard](/images/adminDashboard.png)
+![Admin Dashboard](/images/admin_dashboard.png)
 
 ### Chef Order View
 
-![Chef Order View](/images/chefOrderView.png)
+![Chef Order View](/images/chef_overview.png)
 
 ### Waiter Order Panel
 
-![Waiter Order Panel](/images/waiterOrderPanel.png)
+![Waiter Order Panel](/images/waiter_order_panel.png)
 
 🧪 Testing & Running the App
 Open the project in your IDE (e.g., IntelliJ, Eclipse).
